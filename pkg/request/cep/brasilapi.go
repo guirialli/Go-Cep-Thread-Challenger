@@ -22,6 +22,7 @@ func (b BrasilApiCep) ToCep() Cep {
 		Bairro:     b.Neighborhood,
 		Cidade:     b.City,
 		Estado:     b.State,
+		Origem:     "Brasil Api",
 	}
 }
 

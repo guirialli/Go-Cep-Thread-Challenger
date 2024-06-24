@@ -27,6 +27,7 @@ func (c Viacep) ToCep() Cep {
 		Bairro:     c.Bairro,
 		Cidade:     c.Localidade,
 		Estado:     c.Uf,
+		Origem:     "Via Cep",
 	}
 }
 func GetViaCep(cep string) (*Viacep, error) {
