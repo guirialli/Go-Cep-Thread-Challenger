@@ -41,8 +41,8 @@ The solution should:
    - Make sure you have Go installed on your machine.
 
 2. **Installation**:
-   - Clone this repository: `git clone https://github.com/your-username/repository-name.git`
-   - Navigate to the project directory: `cd repository-name`
+   - Clone this repository: `git clone https://github.com/guirialli/Go-Cep-Thread-Challenger`
+   - Navigate to the project directory: `cd Go-Cep-Thread-Challenger`
    - Install project dependencies: `go mod tidy`
 
 3. **Execution**:
